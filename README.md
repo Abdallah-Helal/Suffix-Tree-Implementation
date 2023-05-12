@@ -1,1 +1,1 @@
-"# Suffix-Tree-Implementation" 
+# Suffix-Tree-Implementation
